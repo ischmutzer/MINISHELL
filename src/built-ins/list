@@ -1,0 +1,9 @@
+• Your shell must implement the following builtins:
+
+◦ echo with option -n //DONE
+◦ cd with only a relative or absolute path //50%
+◦ pwd with no options //NEEDS $? AGAINST BASH
+◦ export with no options //DONE ?
+◦ unset with no options //DONE
+◦ env with no options or arguments //DONE
+◦ exit with no options
